@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Black and White-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    New Colors-->
+    <color name="dark_blue">#005F73</color>
+    <color name="blue_green">#0A9396</color>
+    <color name="light_blue_green">#94D2BD</color>
+    <color name="light_yellow">#E9D8A6</color>
+    <color name="yellow">#EE9B00</color>
+    <color name="dark_orange">#CA6702</color>
+    <color name="burned_orange">#BB3E03</color>
+    <color name="light_red">#AE2012</color>
+    <color name="red">#9B2226</color>
+</resources>

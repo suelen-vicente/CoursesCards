@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuelenTask2</string>
+    <string name="appName">SuelenTask2</string>
+    <string name="physics">Physics</string>
+    <string name="physics_description">Learn more about the numbers of the nature</string>
+    <string name="maths">Maths</string>
+    <string name="maths_description">Learn more about the numbers of the nature</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="chemistry_description">Learn more about the numbers of the nature</string>
+    <string name="biology">Biology</string>
+    <string name="biology_description">Learn more about the numbers of the nature</string>
+    <string name="geography">Geography</string>
+    <string name="geography_description">Learn more about the numbers of the nature</string>
+    <string name="learn_more">Learn More</string>
+</resources>
